@@ -14,6 +14,7 @@ This project is released under an Apache 2.0 license. By contributing code to th
 ## Install and Run (On IntelliJ)
 
 1. Type on the command line:
+
 (```)
 $ mvn clean install
 $ mvn clean install
