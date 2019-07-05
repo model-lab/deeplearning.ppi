@@ -14,8 +14,11 @@ This project is released under an Apache 2.0 license. By contributing code to th
 ## Install and Run (On IntelliJ)
 
 1. Type on the command line:
-
-
+(```)
+$ mvn clean install
+$ mvn clean install
+$ mvn clean install
+(```)
 
 2. Open IntelliJ and select import project. Then select the "deeplearning.ppi" home directory.
 3. Select import projects from external models to ensure that Maven is selected.
