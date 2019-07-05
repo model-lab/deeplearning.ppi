@@ -6,11 +6,6 @@
 
 Protein-protein interactions (PPIs) are central to most biological processes. Although efforts have been devoted to the development of a methodology for predicting PPIs and protein interaction networks, the application of most existing methods is limited because they need information about protein homology or the interaction marks of the protein partners. In the present work, we propose a method for PPI prediction using only the property of protein sequences. This method was developed based on a deep learning framework combined with a K-means-based conjoint triad feature for describing protein sequences. The prediction ability of our approach is better than that of other sequence-based PPI prediction methods.
 
-## Dependencies
-Note that this repository contains all examples for test deeplearning.ppi project. It will download about 0.8g of dependencies from maven central when you are first starting out. That being said, this makes it easier to get started without worrying about what to download. 
-
-This project is released under an Apache 2.0 license. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.
-
 ## Install and Run (On IntelliJ)
 
 1. Type on the command line:
@@ -26,6 +21,11 @@ $ mvn clean install
 4. Continue with the wizard options. Select the SDK that starts with the JDK. (you may need to click on the plus sign to see the relevant options... ) then click finish. Wait a moment, let IntelliJ download all dependencies.
 5. A progress bar appears at the bottom right. Select a example from the tree directory on the left.
 6. Right-click the file and run.
+
+## Dependencies
+Note that this repository contains all examples for test deeplearning.ppi project. It will download about 0.8g of dependencies from maven central when you are first starting out. That being said, this makes it easier to get started without worrying about what to download. 
+
+This project is released under an Apache 2.0 license. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.
 
 ## Known issues with JavaFX
 
