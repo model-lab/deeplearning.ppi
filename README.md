@@ -1,6 +1,6 @@
 # deeplearning.ppi
 
->***In this repository, you may likely see test project - those content is only for special examples.***
+>*In this repository, you may likely see test project - those content is only for special examples.*
 
 ## About
 
