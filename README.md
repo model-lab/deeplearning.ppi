@@ -16,8 +16,8 @@ This project is released under an Apache 2.0 license. By contributing code to th
 1. Type on the command line:
 
 ```
-$ mvn clean install
-$ mvn clean install
+$ git clone https://github.com/model-lab/deeplearning.ppi.git
+$ cd deeplearning.ppi
 $ mvn clean install
 ```
 
