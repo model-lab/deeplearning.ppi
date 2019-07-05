@@ -15,11 +15,7 @@ This project is released under an Apache 2.0 license. By contributing code to th
 
 1. Type on the command line:
 
-(```)
-$ git clone https://github.com/model-lab/deeplearning.ppi.git
-$ cd deeplearning.ppi/
-$ mvn clean install
-(```)
+
 
 2. Open IntelliJ and select import project. Then select the "deeplearning.ppi" home directory.
 3. Select import projects from external models to ensure that Maven is selected.
