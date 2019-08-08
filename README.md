@@ -4,7 +4,7 @@
 
 ## About
 
-Protein-protein interactions (PPIs) are central to most biological processes. Although efforts have been devoted to the development of a methodology for predicting PPIs and protein interaction networks, the application of most existing methods is limited because they need information about protein homology or the interaction marks of the protein partners. In the present work, we propose a method for PPI prediction using only the property of protein sequences. This method was developed based on a deep learning framework combined with a K-means-based conjoint triad feature for describing protein sequences. The prediction ability of our approach is better than that of other sequence-based PPI prediction methods.
+Protein-protein interactions (PPIs) are central to most biological processes. Although efforts have been devoted to the development of a methodology for predicting PPIs and protein interaction networks, the application of most existing methods is limited because they need information about protein homology or the interaction marks of the protein partners. In the present work, we propose a method for PPI prediction using only the property of protein sequences. This method was developed based on a deep learning framework combined with a k-means-based conjoint aaindex module (CAM) for describing protein sequences of PPI. The prediction ability of our approach is better than that of other sequence-based PPI prediction methods.
 
 ## Install and Run (On IntelliJ)
 
